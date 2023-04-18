@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.item-1{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
